@@ -1,0 +1,5 @@
+a1=list(map(int,input().split()))
+b=list(map(int,input().split()))
+hr=(a1[0]-b[0])
+min=(a1[1]-b[1])
+print(hr,min)
